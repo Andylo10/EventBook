@@ -1,0 +1,12 @@
+com\eventbook\app\controllers\LoginServlet.class
+com\eventbook\app\controllers\LogoutServlet.class
+com\eventbook\app\controllers\EventsServlet.class
+com\eventbook\app\controllers\RegisterServlet.class
+com\eventbook\app\models\User.class
+com\eventbook\app\models\Event.class
+com\eventbook\app\controllers\DeleteEventServlet.class
+com\eventbook\app\filters\AdminFilter.class
+com\eventbook\app\filters\AuthFilter.class
+com\eventbook\app\repositories\EventRepository.class
+com\eventbook\app\controllers\AdminEventsServlet.class
+com\eventbook\app\repositories\UserRepository.class
