@@ -16,6 +16,7 @@ Luis Angel Franco Cruz - 2400497 - lafrancoc@alumno.uspg.edu.gt
 
 
 
+
 ### Usuarios demo
 - admin@demo.com / admin123  (ADMIN)
 - user@demo.com  / user123   (USER)
