@@ -1,6 +1,19 @@
-# EventBook (desde cero)
+# EventBook 
 
 Aplicación web **Jakarta EE 10** para gestionar eventos con **sesiones, cookies y filtros**.
+
+# Integrantes
+
+Jonathan Eduardo Jolón García - 2400483 - jejolong@alumno.uspg.edu.gt
+
+Juan Andrés Pirir Palma - 2400479 - japirirp@alumno.uspg.edu.gt
+
+Daniela Marisabel Lopez Aroche - 2400330 - dmlopeza@alumno.uspg.edu.gt
+
+Andrea Alejandra López Jiménez - 2400040 - aalopezj@alumno.uspg.edu.gt
+
+Luis Angel Franco Cruz - 2400497 - lafrancoc@alumno.uspg.edu.gt
+
 
 ## Requisitos
 - JDK 21
@@ -15,7 +28,7 @@ mvn clean package
 ```
 Despliega el `target/EventBook.war` en tu servidor. Luego entra a:
 ```
-http://localhost:8080/EventBook/login.jsp
+http://localhost:8080/EventBook/
 ```
 
 ### Usuarios demo
